@@ -9,7 +9,7 @@ Welcome to enguy-hub's Github portfolio :wave:
 ### Python Projects
 
 - **BayDetect:** [BayDetect](https://github.com/enguy-hub/BayDetect)
-
+- **CametrapDetect:** [CametrapDetect](https://github.com/enguy-hub/CamtrapDetect)
 ---
 
 ### IoT Projects
