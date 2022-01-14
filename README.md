@@ -1,9 +1,8 @@
 ## enguy-hub
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/hien-n-20ab20a5/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)]()
 
-Welcome to my Github portfolio !
+Welcome to enguy-hub's Github portfolio :wave:
 
 ---
 
