@@ -21,7 +21,6 @@ I am Hien
 
 - **BayDetect:** [BayDetect](https://github.com/enguy-hub/BayDetect)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=enguy-hub&show_icons=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enguy-hub&langs_count=3&hide=python,C#,C++,html,css,R)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enguy-hub&hide_langs_below=10)
