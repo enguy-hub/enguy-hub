@@ -1,6 +1,6 @@
-## Hien Nguyen
+## HiEN
 
-Welcome to Hien's Github portfolio :wave:
+Welcome to HiEN's Github portfolio :wave:
 
 ---
 
