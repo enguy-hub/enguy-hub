@@ -13,10 +13,10 @@ Welcome to HiEN's Github page :wave:
 
 ### IoT Projects
 
-- **[Fruits's Color Classifier](https://github.com/enguy-hub/seeedLoRa-fruits-colorClassifier)**
-- **[LoRaWAN GPS Locations](https://github.com/enguy-hub/seeedLoRa-gpsLocations)**
 - **[Alarum](https://github.com/enguy-hub/alarum)**
 - **[Beverage Inventory Management](https://github.com/enguy-hub/store-alerting-system)**
+- **[Fruits's Color Classifier](https://github.com/enguy-hub/seeedLoRa-fruits-colorClassifier)**
+- **[LoRaWAN GPS Locations](https://github.com/enguy-hub/seeedLoRa-gpsLocations)**
 
 ---
 
