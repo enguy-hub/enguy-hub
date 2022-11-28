@@ -4,14 +4,14 @@ Welcome to HiEN's Github page :wave:
 
 ---
 
-### Python Projects
+### Python
 
 - **[BayDetect](https://github.com/enguy-hub/BayDetect)**
 - **[Cameratrap Image Detection](https://github.com/enguy-hub/camtrapDetect)**
 
 ---
 
-### IoT Projects
+### IoT
 
 - **[Alarum](https://github.com/enguy-hub/alarum)**
 - **[Beverage Inventory Management](https://github.com/enguy-hub/store-alerting-system)**
@@ -20,7 +20,7 @@ Welcome to HiEN's Github page :wave:
 
 ---
 
-### R Projects
+### R - Statistical analysis
 
 - **[Plant Ecology Analysis](https://github.com/enguy-hub/phytometer-statsanalysis)**
 
