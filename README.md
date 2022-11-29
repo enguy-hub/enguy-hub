@@ -4,6 +4,15 @@ Welcome to HiEN's Github page :wave:
 
 ---
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/enguy-hub/count.svg" />
+</p>
+
+---
+
 ### Python
 
 - **[BayDetect](https://github.com/enguy-hub/BayDetect)**
@@ -25,3 +34,4 @@ Welcome to HiEN's Github page :wave:
 - **[Plant Ecology Analysis](https://github.com/enguy-hub/phytometer-statsanalysis)**
 
 ---
+
