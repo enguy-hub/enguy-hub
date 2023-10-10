@@ -14,7 +14,6 @@
 ### Python projects
 
 - **[BayDetect](https://github.com/enguy-hub/BayDetect)**
-- **[Cameratrap Image Detection](https://github.com/enguy-hub/camtrapDetect)**
 
 ---
 
