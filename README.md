@@ -29,7 +29,7 @@
 
 ### R projects
 
-- **[Plant Ecology Analysis](https://github.com/enguy-hub/phytometer-statsanalysis)**
+- **[Pollination Service Project](https://github.com/enguy-hub/phytometer-statsanalysis)**
 
 ---
 
