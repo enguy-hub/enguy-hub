@@ -1,4 +1,7 @@
-# Welcome to enguy-Hub page :wave:
+# Xin chào, I am @enguy-hub (Hien Nguyen) :wave:
+
+[![Linkedin Badge](https://img.shields.io/badge/My-LinkeIn-blue)](https://www.linkedin.com/in/hien-n-20ab20a5/)
+[![ResearchGate Badge](https://img.shields.io/badge/My-ResearchGate-yellow)](https://www.researchgate.net/profile/Hien-Nguyen-153)
 
 ---
 
