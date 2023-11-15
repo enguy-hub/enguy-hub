@@ -17,6 +17,15 @@
 ### Python projects
 
 - **[BayDetect](https://github.com/enguy-hub/BayDetect)**
+- **[Python Mini Project - FORKED](https://github.com/enguy-hub/python-mini-project)**
+
+---
+
+### FastAPI Project
+
+- **[Streamlit & FastAPI Map App](https://github.com/enguy-hub/mapapp_streamlit_fastapi)**
+- **[COURSE - Modern APIs with FastAPI - FORKED](https://github.com/enguy-hub/modern-apis-with-fastapi)**
+- **[FastAPI Basic](https://github.com/enguy-hub/fastapi_basictutorial)**
 
 ---
 
@@ -29,15 +38,16 @@
 
 ---
 
-### R projects
+### Camera Trap project
 
-- **[Pollination Service Project](https://github.com/enguy-hub/phytometer-statsanalysis)**
+- **[camtrapYOLO](https://github.com/enguy-hub/camtrapYOLO)**
+- **[camtrapTrain](https://github.com/enguy-hub/camtrapTrain)**
 
 ---
 
-### Camera Trap project
+### R projects
 
-- **[camtrapYOLO](https://github.com/enguy-hub/phytometer-statsanalysis)**
+- **[Pollination Service Project](https://github.com/enguy-hub/phytometer-statsanalysis)**
 
 ---
 
