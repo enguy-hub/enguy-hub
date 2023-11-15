@@ -35,3 +35,9 @@
 
 ---
 
+### Camera Trap project
+
+- **[camtrapYOLO](https://github.com/enguy-hub/phytometer-statsanalysis)**
+
+---
+
