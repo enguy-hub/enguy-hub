@@ -23,9 +23,8 @@
 
 ### FastAPI Project
 
-- **[Streamlit & FastAPI Map App](https://github.com/enguy-hub/mapapp_streamlit_fastapi)**
-- **[COURSE - Modern APIs with FastAPI - FORKED](https://github.com/enguy-hub/modern-apis-with-fastapi)**
 - **[FastAPI Basic](https://github.com/enguy-hub/fastapi_basictutorial)**
+- **[COURSE - Modern APIs with FastAPI - FORKED](https://github.com/enguy-hub/modern-apis-with-fastapi)**
 - **[Streamlit-FastAPI with Nominatim API](https://github.com/enguy-hub/streamlit_fastapi_nominatim)**
 - **[Streamlit-FastAPI with FIRMS API](https://github.com/enguy-hub/streamlit_fastapi_firms)**
 
