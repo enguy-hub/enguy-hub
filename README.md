@@ -17,14 +17,12 @@
 ### Python projects
 
 - **[BayDetect](https://github.com/enguy-hub/BayDetect)**
-- **[Python Mini Project - FORKED](https://github.com/enguy-hub/python-mini-project)**
 
 ---
 
 ### FastAPI Project
 
 - **[FastAPI Basic](https://github.com/enguy-hub/fastapi_basictutorial)**
-- **[COURSE - Modern APIs with FastAPI - FORKED](https://github.com/enguy-hub/modern-apis-with-fastapi)**
 - **[Streamlit-FastAPI with Nominatim API](https://github.com/enguy-hub/streamlit_fastapi_nominatim)**
 - **[Streamlit-FastAPI with FIRMS API](https://github.com/enguy-hub/streamlit_fastapi_firms)**
 
