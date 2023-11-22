@@ -22,10 +22,10 @@
 
 ### FastAPI Project
 
-- **[FastAPI Basic](https://github.com/enguy-hub/fastapi_basictutorial)**
 - **[Streamlit-FastAPI - Active Fires](https://github.com/enguy-hub/streamlit_fastapi_activefires)**
 - **[Streamlit-FastAPI with FIRMS API](https://github.com/enguy-hub/streamlit_fastapi_firms)**
 - **[Streamlit-FastAPI with Nominatim API](https://github.com/enguy-hub/streamlit_fastapi_nominatim)**
+- **[FastAPI Basic](https://github.com/enguy-hub/fastapi_basictutorial)**
 
 ---
 
