@@ -1,8 +1,8 @@
 # Xin chào :wave:, I am @enguy-hub (Hien)
 
 I am a software engineer in the field of Remote Sensing and Earth Observation 
-[![Linkedin Badge](https://img.shields.io/badge/My-LinkeIn-blue)](https://www.linkedin.com/in/hien-n-20ab20a5/)
-[![ResearchGate Badge](https://img.shields.io/badge/My-ResearchGate-yellow)](https://www.researchgate.net/profile/Hien-Nguyen-153)
+[![Linkedin Badge](https://img.shields.io/badge/My-LinkeIn-blue)]()
+[![ResearchGate Badge](https://img.shields.io/badge/My-ResearchGate-yellow)]()
 
 ---
 
