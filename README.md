@@ -1,6 +1,6 @@
-# Xin chào :wave: ! I am HiEN
+# Xin chào, I am HiEN :wave: !
 
-I am a software engineer in the field of Remote Sensing and Earth Observation 
+I am a software engineer, currently working the field of Remote Sensing and Earth Observation 
 
 ---
 
