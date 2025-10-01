@@ -8,7 +8,8 @@ I am a software engineer, currently working the field of Remote Sensing and Eart
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/enguy-hub/count.svg" />
+  <!-- <img src="https://profile-counter.glitch.me/enguy-hub/count.svg" /> -->
+  <img src="https://profile-counter.deno.dev/enguy-hub/count.svg" alt="Visitor Count" />
 </p>
 
 ---
