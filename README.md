@@ -4,15 +4,13 @@ I am a software engineer, currently working the field of Remote Sensing and Eart
 
 ---
 
-<a href=#><img src="contributions.svg"></a>
+<a href="#"><img src="contributions.svg" alt="GitHub Contributions Graph"></a>
 
 <p align="center"> 
   Visitor count<br>
   <!-- <img src="https://profile-counter.glitch.me/enguy-hub/count.svg" /> -->
   <img src="https://profile-counter.deno.dev/enguy-hub/count.svg" alt="Visitor Count" />
 </p>
-
-<a href="#"><img src="contributions.svg" alt="GitHub Contributions Graph"></a>
 
 <p align="center">
   Visitor count<br>
