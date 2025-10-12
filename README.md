@@ -12,15 +12,24 @@ I am a software engineer, currently working the field of Remote Sensing and Eart
   <img src="https://profile-counter.deno.dev/enguy-hub/count.svg" alt="Visitor Count" />
 </p>
 
+<a href="#"><img src="contributions.svg" alt="GitHub Contributions Graph"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=enguy-hub&right_color=blue" alt="Total Visitors" />
+</p>
+
 ---
 
-### Python projects
+### 🐍 Python Projects
 
 - **[BayDetect](https://github.com/enguy-hub/BayDetect)**
+- **[camtrapYOLO](https://github.com/enguy-hub/camtrapYOLO)**
+- **[camtrapTrain](https://github.com/enguy-hub/camtrapTrain)**
 
 ---
 
-### FastAPI Project
+### ⚡ FastAPI Projects
 
 - **[Streamlit-FastAPI - Active Fires](https://github.com/enguy-hub/streamlit_fastapi_activefires)**
 - **[Streamlit-FastAPI with FIRMS API](https://github.com/enguy-hub/streamlit_fastapi_firms)**
@@ -29,7 +38,7 @@ I am a software engineer, currently working the field of Remote Sensing and Eart
 
 ---
 
-### IoT projects
+### 📡 IoT Projects
 
 - **[Alarum](https://github.com/enguy-hub/alarum)**
 - **[Beverage Inventory Management](https://github.com/enguy-hub/store-alerting-system)**
@@ -38,14 +47,7 @@ I am a software engineer, currently working the field of Remote Sensing and Eart
 
 ---
 
-### Camera Trap project
-
-- **[camtrapYOLO](https://github.com/enguy-hub/camtrapYOLO)**
-- **[camtrapTrain](https://github.com/enguy-hub/camtrapTrain)**
-
----
-
-### R projects
+### 🌿 R Projects
 
 - **[Pollination Service Project](https://github.com/enguy-hub/phytometer-statsanalysis)**
 
