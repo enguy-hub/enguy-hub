@@ -1,6 +1,6 @@
 # Xin chào, I am HiEN :wave: !
 
-I am a software engineer, currently working the field of Remote Sensing and Earth Observation 
+I am a software/system engineer by training with a focus on Remote Sensing and Earth Observation applications
 
 ---
 
@@ -23,7 +23,6 @@ I am a software engineer, currently working the field of Remote Sensing and Eart
 
 - **[BayDetect](https://github.com/enguy-hub/BayDetect)**
 - **[camtrapYOLO](https://github.com/enguy-hub/camtrapYOLO)**
-- **[camtrapTrain](https://github.com/enguy-hub/camtrapTrain)**
 
 ---
 
@@ -32,7 +31,6 @@ I am a software engineer, currently working the field of Remote Sensing and Eart
 - **[Streamlit-FastAPI - Active Fires](https://github.com/enguy-hub/streamlit_fastapi_activefires)**
 - **[Streamlit-FastAPI with FIRMS API](https://github.com/enguy-hub/streamlit_fastapi_firms)**
 - **[Streamlit-FastAPI with Nominatim API](https://github.com/enguy-hub/streamlit_fastapi_nominatim)**
-- **[FastAPI Basic](https://github.com/enguy-hub/fastapi_basictutorial)**
 
 ---
 
