@@ -22,7 +22,6 @@ I am a software/system engineer by training with a focus on Remote Sensing and E
 ### 🐍 Python Projects
 
 - **[BayDetect](https://github.com/enguy-hub/BayDetect)**
-- **[camtrapYOLO](https://github.com/enguy-hub/camtrapYOLO)**
 
 ---
 
