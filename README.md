@@ -1,6 +1,6 @@
 # Xin chào, I am HiEN :wave: !
 
-I am a software/system engineer interested in earth observation, environmental and ecological projects, and development of open-source tools.
+I am a software/data engineer interested in earth observation, environmental and ecological projects, and development of open-source tools.
 
 ---
 
